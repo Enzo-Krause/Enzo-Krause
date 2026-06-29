@@ -1,16 +1,24 @@
-## Hi there 👋
+##👋 Olá, eu sou Enzo!
+
 
 <!--
-**Enzo-Krause/Enzo-Krause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+public class Enzo {
+    String passion = "Programação";
+    String focus = "Desenvolvimento de aplicativos/sites";
+    String engine = "Java";
 
-Here are some ideas to get you started:
+    void everyDay() {
+        learn();
+        build();
+        improve();
+    }
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎮 Desenvolvedor em constante evolução.
+
+💻 Transformando lógica em projetos.
+
+🚀 Um commit de cada vez, construindo o futuro.
+
+"Grandes projetos começam com uma única linha de código."
 -->
