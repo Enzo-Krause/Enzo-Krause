@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Enzo%20Krause&fontSize=60&fontAlignY=38&desc=Code.%20Learn.%20Build.&descAlignY=58" />
