@@ -29,7 +29,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,unity,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java" />
 
 </p>
 
