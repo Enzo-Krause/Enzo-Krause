@@ -1,45 +1,126 @@
 
-<!-- Banner -->
- <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Enzo%20Bernardo%20Krause&fontSize=50&fontAlignY=38&desc=Code.%20Learn.%20Build.&descAlignY=58" /> </p>
-
-<h1 align="center">👋 Olá, eu sou Enzo!</h1>
-
-<h3 align="center">
-💻 Desenvolvedor em constante evolução • 🚀 Apaixonado por tecnologia
-</h3>
+<!-- ====================== Banner ====================== -->
 
 <p align="center">
-"Grandes projetos começam com uma única linha de código."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F54,50:0059FF,100:6DC7FF&text=ENZO%20BERNARDO%20KRAUSE&fontColor=FFFFFF&fontSize=45&fontAlignY=38&desc=Awaken%20Your%20Ego.&descAlignY=58"/>
+</p>
+
+<h1 align="center">⚽ Welcome to My Ego ⚽</h1>
+
+<p align="center">
+<i>"Talent is meaningless without the ego to surpass your limits."</i>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 👤 Perfil
 
-- 💻 Sempre aprendendo novas tecnologias.
-- 🧠 Gosto de resolver problemas através da programação.
-- 📚 Atualmente focado em evoluir minhas habilidades como desenvolvedor.
-- 🎯 Objetivo: transformar ideias em projetos cada vez melhores.
+```txt
+👤 Nome........... Enzo Bernardo Krause
+💻 Cargo.......... Desenvolvedor em evolução
+📍 País........... Brasil 🇧🇷
+🎯 Objetivo....... Evoluir um commit de cada vez.
+```
 
 ---
 
-## 🛠️ Tecnologias
+# 🧠 Ego
+
+> "Não escrevo código apenas para funcionar.
+> Escrevo código para evoluir."
+
+---
+
+# ⚡ Status
+
+```txt
+███████████░░░░░░░░ 60%
+
+Programação      ██████████
+Lógica           ███████████
+Criatividade     ██████████
+Aprendizado      ████████████
+```
+
+---
+
+# 💻 Tecnologias
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=java,cs,cpp,python,git,github,vscode,idea,unity"/>
 
 </p>
 
 ---
 
-## 🐍 Contribuições
+# 📊 Estatísticas
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
+
+# 🔥 Flow
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Ranking
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📈 Evolução
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# ⚔️ Mentalidade
+
+```cpp
+while(alive)
+{
+    Learn();
+    Improve();
+    Build();
+    Repeat();
+}
+```
+
+---
+
+# 🚀 Missão
+
+> **Superar a versão de ontem.**
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:001F54,50:0059FF,100:6DC7FF"/>
+
+</p>
+````
+
 
