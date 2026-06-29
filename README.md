@@ -1,5 +1,5 @@
 ##👋 Olá, eu sou Enzo!
-<!--
+
 public class Enzo {
     String passion = "Programação";
     String focus = "Desenvolvimento de aplicativos/sites";
@@ -19,4 +19,6 @@ public class Enzo {
 🚀 Um commit de cada vez, construindo o futuro.
 
 "Grandes projetos começam com uma única linha de código."
--->
+
+
+<!---->
