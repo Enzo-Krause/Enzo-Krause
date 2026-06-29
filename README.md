@@ -1,8 +1,6 @@
 
 <!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Enzo%20Krause&fontSize=60&fontAlignY=38&desc=Code.%20Learn.%20Build.&descAlignY=58" />
-</p>
+ <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Enzo%20Bernardo%20Krause&fontSize=50&fontAlignY=38&desc=Code.%20Learn.%20Build.&descAlignY=58" /> </p>
 
 <h1 align="center">👋 Olá, eu sou Enzo!</h1>
 
