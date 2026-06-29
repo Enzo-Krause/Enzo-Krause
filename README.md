@@ -15,7 +15,7 @@
 
 # 👤 Perfil
 
-```txt
+
 👤 Nome........... Enzo Bernardo Krause
 💻 Cargo.......... Desenvolvedor em evolução
 📍 País........... Brasil 🇧🇷
@@ -23,7 +23,7 @@
 ```
 
 ---
-
+```
 # 🧠 Ego
 
 > "Não escrevo código apenas para funcionar.
